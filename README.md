@@ -1,6 +1,6 @@
 # GEO409 Field Trip Maps
 
-<sub> Maps for field trip to measure tree canopy </sub>
+Maps for field trip to measure tree canopy
 
  ![Map showing Kentucky counties landcover type/](./KY_Counties.jpg)
 
